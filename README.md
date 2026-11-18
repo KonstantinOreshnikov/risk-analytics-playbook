@@ -33,6 +33,7 @@ Decision-ready output
 
 | Guide | Purpose |
 |---|---|
+| [Portfolio analysis contracts](docs/portfolio-analysis-contracts.md) | Snapshot, cohort and migration rules with synthetic examples |
 | [Metric contracts](docs/metric-contracts.md) | Define a metric before calculating it |
 | [Data-quality framework](docs/data-quality-framework.md) | Test completeness, uniqueness, validity and reconciliation |
 | [Reporting workflow](docs/reporting-workflow.md) | Move from a business question to a controlled report |
